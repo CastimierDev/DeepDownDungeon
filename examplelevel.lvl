@@ -1,0 +1,14 @@
+w - wall
+m - move enemy (s)
+t - trap
+c - coin
+d - diamond
+e - enter (naar beneden)
+
+w x y s
+
+(s = speciaal, niet bij alles)
+
+elk level begint de speler op x/y=1, en 
+
+1=rechts,0=links,2=omhoog,3=omlaag

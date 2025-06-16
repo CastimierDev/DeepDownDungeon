@@ -1,0 +1,37 @@
+ideetjes voor de gimma:
+hit effect
+move animation(tisn nu heel clunky)
+  -dungeon crawler
+    -maze ofz
+  -fortnite
+  -turnbased????
+  -special ability
+   
+      -iets van een visual
+    
+      -als extra tijd 3 aparte vuurballetjes die elke turn bewegen
+
+
+  -enemies die je dodo maken
+    -ranged en close range enemies
+    -traps
+    -bewegen op patroon?
+  -muren enzo maarja
+-verstoppertje mechanic?
+-verschillende wapens(als extra tijd?)
+-attacks
+
+plan van aanpak:
+  -zorg dat je dat gekke class keuzetje kan maken
+  -verstop in kastje ofz
+  -zieke pixel art ofz
+
+  Bugs:
+  loot spawnt onder trap/muur/objects
+  je kunt niet op de ondesrte rij lopen
+
+  AF:
+  -loot
+   -rogue: tp/dash??
+   -knight:360* instakill
+   -wizard:3 breed lijn in richting
